@@ -8,4 +8,5 @@ public class Main {
             System.out.println(Subject.physics);
             System.out.println(Subject.computerscience);
                }
+
 }
